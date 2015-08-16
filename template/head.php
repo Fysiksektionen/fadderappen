@@ -12,7 +12,7 @@
     <nav class="top-bar" data-topbar role="navigation">
       <ul class="title-area">
         <li class="name">
-          <h1><a href="#">Fadderappen</a></h1>
+          <h1><a href="/fadderappen">Fadderappen</a></h1>
         </li>
          <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
         <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -21,8 +21,8 @@
       <section class="top-bar-section">
         <!-- Left Nav Section -->
         <ul class="left">
-          <li><a href="#">Infosida 1</a></li>
-          <li><a href="#">Infosida 2</a></li>
+          <li><a href="schema.php">nØllans schema</a></li>
+          <li><a href="kontakt.php">Kontaktuppgifter</a></li>
         </ul>
       </section>
     </nav>
