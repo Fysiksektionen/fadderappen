@@ -11,6 +11,8 @@
             <li>15cl (ett glas) vin (&asymp; 11-15%)</li>
             <li>4cl starksprit (&asymp; 40%, punsch är ca 25%)</li>
         </ul>
-        <p>Sittningsexempel: 2st öl/cider (33cl, 5% eller 50 cl &lt= 3.5%) + 2cl starksprit (40%) + 3cl punsch (22%)</p>
+        <p>Sittningsexempel: 2st öl/cider (33cl, 5% eller 50 cl &lt;= 3.5%) + 2cl starksprit (40%) + 3cl punsch (22%)</p>
     </div>
 </div>
+
+<?php include('template/footer.php'); ?>
