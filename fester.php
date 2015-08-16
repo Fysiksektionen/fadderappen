@@ -3,7 +3,7 @@
 <div class="row">
   <div class="large-12 columns">
     <h1>Anmälan till fester</h1>
-    <p>Infon på den här sidan gäller faddrar. För nØllan, se <a href="nØllans-biljetter.php">nØllans biljetter</a>.</p>
+    <p>Infon på den här sidan gäller faddrar. För nØllan, se <a href="n0llans-biljetter.php">nØllans biljetter</a>.</p>
     <ul class="accordion" data-accordion>
       <li class="accordion-navigation">
         <a href="#anmalan">Anmälan</a>
