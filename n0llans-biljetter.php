@@ -31,8 +31,8 @@
           </tr>
           <tr>
             <td>nØllebanquetten</td>
-            <td>310</td>
             <td>340</td>
+            <td>310</td>
           </tr>
           <tr>
             <td>Stuggasquen</td>
