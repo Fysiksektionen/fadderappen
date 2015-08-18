@@ -18,6 +18,9 @@
           <p>
             nØllan kan även betala med kort om de köper biljett hos Biljettförsäljaren (Ryll) som kommer att finnas tillgänglig i samband med infon fr.o.m. tisdag 18/8.
           </p>
+          <h2>Platser och deadlines</h2>
+          <p>Systemet är cappat så att ni inte kan sälja fler biljetter än vad det finns platser på festen; om ni försöker, får ni upp en fråga ifall nØllan vill stå på reservlista.</p>
+          <p>Systemet har däremot ingen spärr vid <a href="anmalningsstopp">anmälningsstopp</a>, så om deadline har passerat måste ni kolla med Mottagningen först ifall det är OK att anmäla.</p>
         </div>
       </li>
       <li class="accordion-navigation">
